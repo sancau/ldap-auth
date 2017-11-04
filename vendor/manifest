@@ -1,0 +1,17 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "gopkg.in/asn1-ber.v1",
+			"repository": "https://gopkg.in/asn1-ber.v1",
+			"revision": "379148ca0225df7a432012b8df0355c2a2063ac0",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/ldap.v2",
+			"repository": "https://gopkg.in/ldap.v2",
+			"revision": "8168ee085ee43257585e50c6441aadf54ecb2c9f",
+			"branch": "master"
+		}
+	]
+}
